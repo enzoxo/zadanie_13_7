@@ -1,0 +1,15 @@
+{
+  "name": "nauka_npm",
+  "version": "1.0.0",
+  "description": "\"Nauka npm'a\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "colors": "^1.3.0",
+    "readdir": "^0.1.0",
+    "stat-mode": "^0.2.2"
+  }
+}
